@@ -31,8 +31,8 @@ lightMilitaryVehicles =
   ["CUP_I_LR_Ambulance_RACS", "CUP_I_M113_Med_AAF", "CUP_B_LR_Ambulance_CZ_W", "CUP_B_M113_Med_USA"],
   ["CUP_I_UAZ_MG_UN", "CUP_I_Datsun_PK", "CUP_I_Datsun_PK_Random", "CUP_B_LR_MG_CZ_W", "CUP_B_UAZ_MG_CDF", "CUP_B_HMMWV_M2_USA"],
 	"CUP_I_SUV_ION",
-	"CUP_I_SUV_Armored_ION"
-	"CUP_I_BTR40_TKG",
+	"CUP_I_SUV_Armored_ION",
+	"CUP_I_BTR40_TKG"
 ];
 
 //Medium Military Vehicle List - Random Spawns
