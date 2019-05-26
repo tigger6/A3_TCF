@@ -112,7 +112,7 @@ vehicleAddition =
 	"CUP_1Rnd_Smoke_M203",
 	"CUP_10Rnd_762x54_SVD_M",
 	"CUP_5Rnd_127x108_KSVK_M",
-	"CUP_20Rnd_762x51_DMR"
+	"CUP_20Rnd_762x51_DMR",
 	"FirstAidKit",
 	"ToolKit"
 ];
