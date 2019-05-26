@@ -72,6 +72,8 @@ staticHeliList =
 //Object List - Random Planes.
 staticPlaneList =
 [
+	"CUP_C_AN2_AEROSCHROT_TK_CIV",
+	"CUP_O_AN2_TK"
 ];
 
 A3W_planeSpawnOdds = 0.25; // 0.0 to 1.0
